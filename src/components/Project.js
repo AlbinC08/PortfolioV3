@@ -94,6 +94,13 @@ const Project = ({ projectNumber }) => {
           >
             <span className="button">Voir le site</span>
           </a>
+          <a
+            href={currentProject.repo}
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <span className="button">Voir le repo</span>
+          </a>
         </div>
       </motion.div>
       <span

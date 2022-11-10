@@ -232,7 +232,9 @@
     }
   }
   .button-container {
-    width: 130px;
+    display: flex;
+    width: 600px;
+    justify-content: space-between;
 
     a {
       .button {

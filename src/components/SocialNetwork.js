@@ -42,14 +42,14 @@ const SocialNetwork = () => {
           </li>
         </a>
         <a
-          href="https://www.instagram.com/cedricalbin/"
+          href="https://github.com/AlbinC08"
           target="_blank"
           rel="noopener noreferrer"
           className="hover"
           onMouseOver={anim}
         >
           <li>
-            <i className="fab fa-instagram"></i>
+            <i className="fab fa-github"></i>
           </li>
         </a>
       </ul>
