@@ -159,6 +159,7 @@
       }
     }
     .img-content {
+      width: fit-content;
       position: relative;
       text-align: left;
       margin-left: 10px;
@@ -233,7 +234,7 @@
   }
   .button-container {
     display: flex;
-    width: 600px;
+    width: 100%;
     justify-content: space-between;
 
     a {

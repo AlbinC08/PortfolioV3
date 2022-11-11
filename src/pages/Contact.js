@@ -75,7 +75,7 @@ const Contact = () => {
             <p>Cédric Albin - 2022</p>
           </div>
         </div>
-        <Buttons left={"/projet-5"} />
+        <Buttons left={"/projet-5"} right={"/"} />
       </motion.div>
     </main>
   );
