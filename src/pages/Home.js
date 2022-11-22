@@ -24,14 +24,6 @@ const Home = () => {
     },
   };
 
-  const motivation = () => { 
-    let solutions909 = 909 
-    for (let i = 0; i < solutions909; i++) { 
-      console.log("Je veux faire du dev en écoutant du Daft Punk");
-    }
-
-  } 
-  motivation()
 
   return (
     <div>
